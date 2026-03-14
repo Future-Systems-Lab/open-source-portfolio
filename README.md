@@ -25,3 +25,15 @@ This repo consolidates patches, notes, and links for public contributions. Verti
 
 ## Notes
 - Each folder contains: /PR.patch when applicable, /NOTES.md, and links.
+
+## Active Open Source Contributions
+
+| Repo | PR | Status |
+|------|----|--------|
+| ethereum/EIPs | [#11409](https://github.com/ethereum/EIPs/pull/11409) | Open |
+| OpenZeppelin/openzeppelin-contracts | [#6414](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6414) | Open |
+| Uniswap/v3-core | [#1077](https://github.com/Uniswap/v3-core/pull/1077) | Open |
+| openmrs/openmrs-module-fhir2 | [#594](https://github.com/openmrs/openmrs-module-fhir2/pull/594) | Open |
+| bigchaindb/bigchaindb | [#2763](https://github.com/bigchaindb/bigchaindb/pull/2763) | Open |
+| balancer/balancer-v2-monorepo | [#2648](https://github.com/balancer/balancer-v2-monorepo/pull/2648) | Open |
+| decentralized-identity/presentation-exchange | [#486](https://github.com/decentralized-identity/presentation-exchange/pull/486) | Open |
